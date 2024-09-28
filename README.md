@@ -15,10 +15,10 @@
 
 # Backend Routes
 
-GET `/api/movies`: bütün filmleri verir
-GET `/api/movies/ID`: bir filmi verir
-GET `/api/movies?query=METİN`: filtreleme yapılır
-DELETE `/api/movies/ID`: bir filmi siler
+- GET `/api/movies`: bütün filmleri verir
+- GET `/api/movies/ID`: bir filmi verir
+- GET `/api/movies?query=METİN`: filtreleme yapılır
+- DELETE `/api/movies/ID`: bir filmi siler
 
 # Açıklama
 
